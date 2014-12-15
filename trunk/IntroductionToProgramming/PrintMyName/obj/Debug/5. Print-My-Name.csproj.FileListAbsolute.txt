@@ -1,3 +1,0 @@
-C:\Users\toshiba\Desktop\C# Projects\IntroductionToProgramming\PrintMyName\bin\Debug\PrintMyName.exe.config
-C:\Users\toshiba\Desktop\C# Projects\IntroductionToProgramming\PrintMyName\obj\Debug\PrintMyName.exe
-C:\Users\toshiba\Desktop\C# Projects\IntroductionToProgramming\PrintMyName\obj\Debug\PrintMyName.pdb
